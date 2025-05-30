@@ -17,3 +17,4 @@ keras-tuner
 matplotlib
 stable-baselines3
 streamlit-option-menu
+gym
